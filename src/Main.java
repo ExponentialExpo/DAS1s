@@ -2,6 +2,6 @@ class Main
 {
     public static void main(String[] args)
     {
-        System.out.println("MY NAME GOES HERE");
+        System.out.println("THIS IS ARCSTAC");
     }
 }
